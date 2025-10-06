@@ -20,6 +20,9 @@ To be able to run this project you will need to install the Java Swing library i
 
     javac -d out Main.java
 
+    cd out
+    java Main
+
 ## How to play
 
 Use the following keyboard controls to play the game:
@@ -38,4 +41,3 @@ Use the following keyboard controls to play the game:
 - **C** : Passive Boost
 - **Space** : Dash
 - **R** : Generate New Level
-
