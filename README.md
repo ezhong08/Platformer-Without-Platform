@@ -4,7 +4,10 @@ A Platformer Without Platforms.
 
 
 # Description
-A platformer with increasingly harder levels that takes movement-based abilities in platformer games to the extreme. In fact, as the name suggests, there are no platforms beyond the edges of the screen.
+This project, A Platformer Without Platforms, is a 2D platformer. However, unlike traditional platformers, there are no platforms for the player to rest on. I programmed this game because I wanted to explore something new and fun to play, and taking a platformer to the extreme counts:
+-	In this new style of game, there are no platforms to rest on, so the player (blue square) has to react faster.
+-	The shape and position of obstacles (red rectangles) and the goal (green square) is random, bringing more fun and challenge to the game.
+-	To compensate for the lack of platforms, the player gets to choose movement upgrades. This lets them explore how different sets of abilities work.
 
 ## Background
 
@@ -41,3 +44,13 @@ Use the following keyboard controls to play the game:
 - **C** : Passive Boost
 - **Space** : Dash
 - **R** : Generate New Level
+
+The objective is to move the player character to the goal of each level. The levels get progressively harder as more and more obstacles will exist in each level.
+
+Every 2 levels, an upgrade will be available. Many upgrades are on "upgrade branches" that require you to get all of the previous upgrades in the branch first before getting it.
+
+
+# Gameplay
+Click the thumbnail to watch the video.
+
+[![Watch the video](PlatformerClipThumbnail1.png)](PlatformerClip1.mp4)
