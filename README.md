@@ -51,6 +51,5 @@ Every 2 levels, an upgrade will be available. Many upgrades are on "upgrade bran
 
 
 # Gameplay
-Click the thumbnail to watch the video.
 
-[![Watch the video](PlatformerClipThumbnail1.png)](PlatformerClip1.mp4)
+![Demo](assets/PlatformerVideo.gif)
